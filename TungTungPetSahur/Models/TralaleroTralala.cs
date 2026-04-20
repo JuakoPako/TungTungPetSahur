@@ -6,5 +6,6 @@ internal class TralaleroTralala : Mascota
     public TralaleroTralala()
         : base("Feliz", 50, 50, 50, Edad.Bebe)
     {
+        this.Tipo = TipoMascota.Tralalero;
     }
 }

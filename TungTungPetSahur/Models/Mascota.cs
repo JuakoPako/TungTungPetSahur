@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace TungTungPetSahur.Models
 {
-    internal class Mascota
+
+    public enum TipoMascota
+
     {
+        TungTung, Capuccina, Tralalero
+    }
+
+
+    public class Mascota
+    {
+
+        public TipoMascota Tipo { get; set; }
 
         public String humor { get; set; }
 
@@ -21,8 +31,9 @@ namespace TungTungPetSahur.Models
         public enum Edad
         {
             Bebe,
-            Joven,
-            Adulto
+            Adulto,
+            Viejo
+            
         }
 
         public Edad EdadActual { get; set; }

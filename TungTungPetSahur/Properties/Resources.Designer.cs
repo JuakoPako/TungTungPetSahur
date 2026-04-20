@@ -63,9 +63,327 @@ namespace TungTungPetSahur.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaadulta {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaadulta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaadultadurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaadultadurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaadultaenojada {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaadultaenojada", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaadultatriste {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaadultatriste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinadurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinadurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaenojada {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaenojada", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinapieza {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinapieza", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinasinfondo {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinasinfondo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinatriste {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinatriste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinavieja {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinavieja", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaviejadurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaviejadurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaviejaenojada {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaviejaenojada", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ballerinacapuccinaviejatriste {
+            get {
+                object obj = ResourceManager.GetObject("ballerinacapuccinaviejatriste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream In_Game_Theme {
+            get {
+                return ResourceManager.GetStream("In-Game-Theme", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Main_Menu_Theme {
+            get {
+                return ResourceManager.GetStream("Main-Menu-Theme", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroadulto {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroadulto", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroadultodurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroadultodurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroadultoenojado {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroadultoenojado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroadultotriste {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroadultotriste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralalerodurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("tralalerodurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroenojado {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroenojado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleropieza {
+            get {
+                object obj = ResourceManager.GetObject("tralaleropieza", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralalerosinfondo {
+            get {
+                object obj = ResourceManager.GetObject("tralalerosinfondo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralalerotriste {
+            get {
+                object obj = ResourceManager.GetObject("tralalerotriste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroviejo {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroviejo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroviejodurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroviejodurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroviejoenojado {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroviejoenojado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tralaleroviejotriste {
+            get {
+                object obj = ResourceManager.GetObject("tralaleroviejotriste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap tungtungsahur_sin_fondo {
             get {
                 object obj = ResourceManager.GetObject("tungtungsahur sin fondo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahuradultodurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahuradultodurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahuradultoenojado {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahuradultoenojado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahuradultopieza {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahuradultopieza", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahuradultotriste {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahuradultotriste", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -116,6 +434,46 @@ namespace TungTungPetSahur.Properties {
         internal static System.Drawing.Bitmap tungtungsahurtriste {
             get {
                 object obj = ResourceManager.GetObject("tungtungsahurtriste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahurviejodurmiendo {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahurviejodurmiendo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahurviejoenojado {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahurviejoenojado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahurviejopieza {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahurviejopieza", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tungtungsahurviejotriste {
+            get {
+                object obj = ResourceManager.GetObject("tungtungsahurviejotriste", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

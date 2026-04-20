@@ -118,8 +118,104 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ballerinacapuccinaadulta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaadulta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinaadultadurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaadultadurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinaadultaenojada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaadultaenojada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinaadultatriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaadultatriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinadurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinadurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinaenojada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaenojada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinapieza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinapieza.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinasinfondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinasinfondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinatriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinatriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinavieja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinavieja.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinaviejadurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaviejadurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinaviejaenojada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaviejaenojada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballerinacapuccinaviejatriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballerinacapuccinaviejatriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="In-Game-Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\In-Game-Theme.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Main-Menu-Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Main-Menu-Theme.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tralaleroadulto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroadulto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroadultodurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroadultodurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroadultoenojado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroadultoenojado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroadultotriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroadultotriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralalerodurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralalerodurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroenojado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroenojado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleropieza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleropieza.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralalerosinfondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralalerosinfondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralalerotriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralalerotriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroviejo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroviejo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroviejodurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroviejodurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroviejoenojado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroviejoenojado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tralaleroviejotriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tralaleroviejotriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="tungtungsahur sin fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tungtungsahur sin fondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahuradultodurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahuradultodurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahuradultoenojado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahuradultoenojado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahuradultopieza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahuradultopieza.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahuradultotriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahuradultotriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tungtungsahurpieza" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tungtungsahurpieza.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -135,5 +231,17 @@
   </data>
   <data name="tungtungsahurtriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tungtungsahurtriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahurviejodurmiendo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahurviejodurmiendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahurviejoenojado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahurviejoenojado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahurviejopieza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahurviejopieza.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tungtungsahurviejotriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tungtungsahurviejotriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

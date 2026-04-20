@@ -6,5 +6,6 @@ internal class TungTungSahur : Mascota
     public TungTungSahur()
         : base("Feliz", 50, 50, 50, Edad.Bebe)
     {
+        this.Tipo = TipoMascota.TungTung;
     }
 }
