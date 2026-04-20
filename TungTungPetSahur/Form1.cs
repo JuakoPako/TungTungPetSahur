@@ -45,6 +45,7 @@ namespace TungTungPetSahur
             timer.Start();
         }
 
+        int contador = 0;
         private void Timer_Elapsed(object sender, ElapsedEventArgs e)
         {
 
@@ -69,11 +70,52 @@ namespace TungTungPetSahur
             {
                 oMascota.EdadActual = Mascota.Edad.Viejo;
             }
+            else if (ticksParaCrecer >= 90) // 15 MINUTOS MUERTE NATURAL
+            {
+                FinalizarJuegoMuerteNatural();
+                return;
 
-            this.Invoke((MethodInvoker)delegate {
+            }
+                this.Invoke((MethodInvoker)delegate {
                 ActualizarTodo();
                 actualizarBarras();
                 Humor(); 
+            });
+
+            if (oMascota.hambre <= 0 || oMascota.diversion <= 0 || oMascota.sueno <= 0)
+            {
+                contador ++;
+            }
+
+            if (contador >= 3)
+            {
+                FinalizarJuego();
+            }
+
+        }
+
+        private void FinalizarJuego()
+        {
+            
+            timer.Stop();
+
+            
+            this.Invoke((MethodInvoker)delegate {
+
+                
+                reproductorMusica = new SoundPlayer(Properties.Resources.QEPDMusic);
+                reproductorMusica.Play(); // O .PlayLooping() si quieres que siga sonando
+
+                
+                pictureBox1.Image = Properties.Resources.qepd;
+
+                
+                btnComer.Enabled = false;
+                btnDormir.Enabled = false;
+                btnJugar.Enabled = false;
+
+                
+                MessageBox.Show("FIN DE LA PARTIDA: TU BRAINROT HA FALLECIDO");
             });
         }
 
@@ -227,6 +269,10 @@ namespace TungTungPetSahur
             pgrComida.Value = Math.Max(0, Math.Min(100, oMascota.hambre));
             pgrEnergia.Value = Math.Max(0, Math.Min(100, oMascota.sueno));
             pgrDiversion.Value = Math.Max(0, Math.Min(100, oMascota.diversion));
+
+            lblDiversion.Text = oMascota.diversion.ToString() + "%";
+            lblComida.Text = oMascota.hambre.ToString() + "%";
+            lblEnergia.Text = oMascota.sueno.ToString() + "%";
         }
 
 
@@ -256,14 +302,36 @@ namespace TungTungPetSahur
             if (estaDurmiendo)
             {
                 btnDormir.Text = "Despertar";
+                this.BackgroundImage = Properties.Resources.fondociudadnoche;
+                this.BackgroundImageLayout = ImageLayout.Stretch;
             }
             else
             {
                 btnDormir.Text = "Dormir";
+                this.BackgroundImage = Properties.Resources.fondociudad;
             }
 
             ActualizarTodo();
 
+        }
+
+        private void FinalizarJuegoMuerteNatural()
+        {
+            this.Invoke((MethodInvoker)delegate {
+                timer.Stop();
+                reproductorMusica.Stop();
+
+                reproductorMusica = new SoundPlayer(Properties.Resources.QEPDMusic);
+                reproductorMusica.Play();
+
+                pictureBox1.Image = Properties.Resources.qepd;
+
+                btnComer.Enabled = false;
+                btnDormir.Enabled = false;
+                btnJugar.Enabled = false;
+
+                MessageBox.Show("TU BRAINROT HA COMPLETADO SU CICLO DE VIDA.\nHa fallecido pacíficamente de vejez. ¡Fuiste un gran dueño!");
+            });
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

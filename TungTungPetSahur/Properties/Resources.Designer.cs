@@ -191,6 +191,26 @@ namespace TungTungPetSahur.Properties {
         }
         
         /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fondociudad {
+            get {
+                object obj = ResourceManager.GetObject("fondociudad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fondociudadnoche {
+            get {
+                object obj = ResourceManager.GetObject("fondociudadnoche", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
         /// </summary>
         internal static System.IO.UnmanagedMemoryStream In_Game_Theme {
@@ -205,6 +225,25 @@ namespace TungTungPetSahur.Properties {
         internal static System.IO.UnmanagedMemoryStream Main_Menu_Theme {
             get {
                 return ResourceManager.GetStream("Main-Menu-Theme", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap qepd {
+            get {
+                object obj = ResourceManager.GetObject("qepd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream QEPDMusic {
+            get {
+                return ResourceManager.GetStream("QEPDMusic", resourceCulture);
             }
         }
         

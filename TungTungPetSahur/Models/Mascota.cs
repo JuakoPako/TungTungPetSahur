@@ -70,9 +70,24 @@ namespace TungTungPetSahur.Models
 
         public void descensoNecesidades()
         {
-            sueno = Limitar(sueno - 1);
-            diversion = Limitar(diversion - 1);
-            hambre = Limitar(hambre - 1);
+
+            int danoBase = 3;
+            int multiplicador = 1;
+            
+            if (this.EdadActual == Edad.Adulto)
+            {
+                multiplicador = 2;
+            }
+
+            else if (this.EdadActual == Edad.Viejo)
+            {
+                multiplicador = 3;
+            }
+
+            this.hambre = Math.Max(0, this.hambre - (danoBase * multiplicador));
+            this.diversion = Math.Max(0, this.diversion - (danoBase * multiplicador));
+            this.sueno = Math.Max(0, this.sueno - (danoBase * multiplicador));
+
         }
 
         private int Limitar(int valor)

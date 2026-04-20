@@ -157,11 +157,23 @@
   <data name="ballerinacapuccinaviejatriste" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ballerinacapuccinaviejatriste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fondociudad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondociudad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondociudadnoche" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondociudadnoche.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="In-Game-Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\In-Game-Theme.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Main-Menu-Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Main-Menu-Theme.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="qepd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qepd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QEPDMusic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\QEPDMusic.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="tralaleroadulto" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tralaleroadulto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
